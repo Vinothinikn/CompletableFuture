@@ -1,0 +1,102 @@
+[
+  {
+    "symbol": "AAPL",
+    "currentPrice": 175.50,
+    "openPrice": 172.30,
+    "closePrice": 174.80,
+    "dayHigh": 176.00,
+    "dayLow": 171.90,
+    "volume": 48000000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "GOOGL",
+    "currentPrice": 2800.75,
+    "openPrice": 2785.00,
+    "closePrice": 2790.25,
+    "dayHigh": 2810.50,
+    "dayLow": 2775.20,
+    "volume": 1500000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "AMZN",
+    "currentPrice": 3400.00,
+    "openPrice": 3355.00,
+    "closePrice": 3390.00,
+    "dayHigh": 3420.50,
+    "dayLow": 3340.75,
+    "volume": 3500000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "TSLA",
+    "currentPrice": 850.20,
+    "openPrice": 830.50,
+    "closePrice": 840.15,
+    "dayHigh": 860.00,
+    "dayLow": 825.40,
+    "volume": 20000000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "MSFT",
+    "currentPrice": 305.10,
+    "openPrice": 300.00,
+    "closePrice": 303.75,
+    "dayHigh": 307.50,
+    "dayLow": 299.90,
+    "volume": 25000000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "NFLX",
+    "currentPrice": 620.75,
+    "openPrice": 612.50,
+    "closePrice": 615.40,
+    "dayHigh": 625.00,
+    "dayLow": 610.30,
+    "volume": 1200000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "FB",
+    "currentPrice": 345.65,
+    "openPrice": 340.00,
+    "closePrice": 344.80,
+    "dayHigh": 348.00,
+    "dayLow": 338.50,
+    "volume": 1000000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "NVDA",
+    "currentPrice": 590.00,
+    "openPrice": 580.00,
+    "closePrice": 585.75,
+    "dayHigh": 592.00,
+    "dayLow": 575.50,
+    "volume": 1800000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "BABA",
+    "currentPrice": 210.50,
+    "openPrice": 205.00,
+    "closePrice": 208.75,
+    "dayHigh": 212.00,
+    "dayLow": 204.50,
+    "volume": 2500000,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "symbol": "V",
+    "currentPrice": 230.00,
+    "openPrice": 225.00,
+    "closePrice": 228.75,
+    "dayHigh": 232.50,
+    "dayLow": 224.75,
+    "volume": 1400000,
+    "reportTime": "2024-10-17T16:00:00"
+  }
+]

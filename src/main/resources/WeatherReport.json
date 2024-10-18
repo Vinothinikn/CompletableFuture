@@ -1,0 +1,82 @@
+[
+  {
+    "location": "New York",
+    "description": "Sunny",
+    "temperature": 22.5,
+    "humidity": 50,
+    "windSpeed": 15,
+    "reportTime": "2024-10-17T09:00:00"
+  },
+  {
+    "location": "Los Angeles",
+    "description": "Cloudy",
+    "temperature": 18.0,
+    "humidity": 60,
+    "windSpeed": 10,
+    "reportTime": "2024-10-17T10:00:00"
+  },
+  {
+    "location": "Chicago",
+    "description": "Rainy",
+    "temperature": 16.2,
+    "humidity": 80,
+    "windSpeed": 20,
+    "reportTime": "2024-10-17T11:00:00"
+  },
+  {
+    "location": "Houston",
+    "description": "Thunderstorm",
+    "temperature": 24.3,
+    "humidity": 85,
+    "windSpeed": 25,
+    "reportTime": "2024-10-17T12:00:00"
+  },
+  {
+    "location": "Phoenix",
+    "description": "Sunny",
+    "temperature": 35.5,
+    "humidity": 20,
+    "windSpeed": 5,
+    "reportTime": "2024-10-17T13:00:00"
+  },
+  {
+    "location": "San Francisco",
+    "description": "Foggy",
+    "temperature": 14.8,
+    "humidity": 75,
+    "windSpeed": 12,
+    "reportTime": "2024-10-17T14:00:00"
+  },
+  {
+    "location": "Miami",
+    "description": "Partly Cloudy",
+    "temperature": 28.6,
+    "humidity": 70,
+    "windSpeed": 8,
+    "reportTime": "2024-10-17T15:00:00"
+  },
+  {
+    "location": "Denver",
+    "description": "Snow",
+    "temperature": -2.0,
+    "humidity": 65,
+    "windSpeed": 30,
+    "reportTime": "2024-10-17T16:00:00"
+  },
+  {
+    "location": "Las Vegas",
+    "description": "Sunny",
+    "temperature": 33.3,
+    "humidity": 15,
+    "windSpeed": 7,
+    "reportTime": "2024-10-17T17:00:00"
+  },
+  {
+    "location": "Seattle",
+    "description": "Rainy",
+    "temperature": 12.1,
+    "humidity": 90,
+    "windSpeed": 18,
+    "reportTime": "2024-10-17T18:00:00"
+  }
+]

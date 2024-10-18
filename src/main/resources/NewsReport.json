@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "New Tech Innovations Unveiled at Conference",
+    "description": "Tech companies reveal groundbreaking products.",
+    "source": "TechCrunch",
+    "category": "Technology",
+    "publishedTime": "2024-10-17T08:00:00",
+    "content": "A series of tech giants announced new hardware and software innovations..."
+  },
+  {
+    "headline": "Global Stock Markets See Major Dip",
+    "description": "Stock markets across the world experience a sharp decline.",
+    "source": "BBC News",
+    "category": "Finance",
+    "publishedTime": "2024-10-17T09:30:00",
+    "content": "Global stock markets saw a significant drop today due to economic uncertainty..."
+  },
+  {
+    "headline": "Wildfires Continue to Rage Across California",
+    "description": "Firefighters struggle to contain multiple wildfires.",
+    "source": "CNN",
+    "category": "Environment",
+    "publishedTime": "2024-10-17T10:15:00",
+    "content": "The wildfires in California continue to spread rapidly as firefighters work tirelessly..."
+  },
+  {
+    "headline": "New Space Mission to Explore Distant Planets",
+    "description": "NASA announces a new mission to study distant planets.",
+    "source": "NASA",
+    "category": "Science",
+    "publishedTime": "2024-10-17T11:00:00",
+    "content": "NASA's latest mission aims to study planets outside our solar system..."
+  },
+  {
+    "headline": "Football World Cup 2024: Latest Updates",
+    "description": "Teams battle it out in the final stages of the tournament.",
+    "source": "ESPN",
+    "category": "Sports",
+    "publishedTime": "2024-10-17T12:30:00",
+    "content": "The World Cup is nearing its end as teams fight for the ultimate prize..."
+  },
+  {
+    "headline": "Major Cybersecurity Breach Hits Fortune 500 Company",
+    "description": "Hackers have targeted a large corporation, exposing sensitive data.",
+    "source": "Reuters",
+    "category": "Security",
+    "publishedTime": "2024-10-17T13:45:00",
+    "content": "A major Fortune 500 company has suffered a significant data breach, affecting millions..."
+  },
+  {
+    "headline": "Breakthrough in Cancer Research",
+    "description": "Scientists develop a new treatment with promising results.",
+    "source": "Medical News Today",
+    "category": "Health",
+    "publishedTime": "2024-10-17T14:20:00",
+    "content": "Researchers have developed a new cancer treatment that shows promise in early trials..."
+  },
+  {
+    "headline": "Climate Change Policies Under Scrutiny",
+    "description": "Governments face criticism over their approach to climate change.",
+    "source": "The Guardian",
+    "category": "Politics",
+    "publishedTime": "2024-10-17T15:00:00",
+    "content": "Climate change policies across various nations are being criticized for lack of progress..."
+  },
+  {
+    "headline": "Artificial Intelligence Transforming Industries",
+    "description": "AI technologies are rapidly changing various industries.",
+    "source": "Forbes",
+    "category": "Technology",
+    "publishedTime": "2024-10-17T15:45:00",
+    "content": "Artificial Intelligence is disrupting industries from healthcare to finance with rapid advancements..."
+  },
+  {
+    "headline": "Luxury Fashion Brands Face Sustainability Backlash",
+    "description": "Luxury fashion brands are under fire for their environmental impact.",
+    "source": "Vogue",
+    "category": "Fashion",
+    "publishedTime": "2024-10-17T16:30:00",
+    "content": "As sustainability becomes more important, luxury brands are being criticized for their environmental footprint..."
+  }
+]
